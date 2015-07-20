@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: "You're calling City Council"
 permalink: /call-script/
+twittertext: "Call City Council: obey the spirit, not just the letter, of the law %23SaveE12th"
 ---
 
 <h2>You're being connected!</h2>
@@ -19,5 +20,32 @@ permalink: /call-script/
 <p>
 Thank you.</p>
 </div>
+<h2>To Find A Particular City Councilmember...</h2>
+<p>Once you've placed your calls to Councilmembers Guillen and McElhaney, you may want to call your own councilmember, if you're in a district other than 2 or 3. Here is a complete list of City Councilmembers for you to call or email:</p>
+<ul>
+<li>District 1, Councilmember Dan Kalb<br />
+(510) 238-7001, dkalb@oaklandnet.com</li>
+<li>District 2: Councilmember Abel Guillén<br />
+(510) 238-7002, aguillen@oaklandnet.com</li>
+<li>District 3, Council President Lynette Gibson McElhaney<br />
+(510) 238-7032, lmcelhaney@oaklandnet.com</li>
+<li>District 4, Councilmember Annie Campbell Washington<br />
+(510) 238-7042, acampbell-washington@Oaklandnet.com</li>
+<li>District 5, Councilmember Noel Gallo<br />
+510-238-7005, ngallo@oaklandnet.com</li>
+<li>District 6, Councilmember Desley Brooks<br />
+(510) 238-7006, dbrooks@oaklandnet.com</li>
+<li>Councilmember At-large Rebecca Kaplan<br />
+(510) 238-7008, rkaplan@oaklandnet.com</li>
+</ul>
+<p>You may also want to call the executive branch:</p>
+<ul>
+<li>City Administrator Sabrina Landreth<br />
+(510) 238-3301, cityadministrator@oaklandnet.com </li>
+<li>Mayor Libby Schaaf<br />
+(510) 238-3141, officeofthemayor@oaklandnet.com</li>
+<li>Mayor’s Chief of Staff Tomiquia Moss<br />
+(510) 238-7168, tmoss@oaklandnet.com</li>
+</ul>
 <h2>Once you're done...</H2>
 
